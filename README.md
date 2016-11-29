@@ -1,0 +1,1 @@
+# Quartz-JDBC-store-for-Vertica
